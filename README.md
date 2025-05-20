@@ -1,4 +1,4 @@
-edit path in `eng.py`
-edit path in `.bat`
-prepare `vocab.txt` with template
+1. edit path in `eng.py`
+2. edit path in `.bat`
+3. prepare `vocab.txt` with template
  `word to learn : meaning`
