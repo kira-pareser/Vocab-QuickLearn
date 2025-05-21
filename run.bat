@@ -1,3 +1,3 @@
 @echo off
-python "D:\Personal\Script\eng.py" %*
+python "C:\Users\kira2\Desktop\Vocab-QuickLearn" %*
 pause

@@ -25,11 +25,73 @@ while True:
     print("------------------------------")
     choice = input(Style.RESET_ALL + "Chọn chức năng (1-3): ")
     
+    # if choice == '1':
+    #     while True:
+    #         input_word = input("Nhập từ (Nhấn " + Fore.RED + "ENTER " + Style.RESET_ALL + "để dừng): ").lower()
+    #         if not input_word:
+    #             print("Trở lại Menu chính.")
+    #             break
+
+    #         matched_word = None
+    #         for word in data_dict:
+    #             if input_word in word or word in input_word:
+    #                 matched_word = word
+    #                 break
+
+    #         if matched_word:
+    #             print("Nghĩa của từ " + Fore.GREEN + matched_word + Fore.WHITE + " là: " + Fore.YELLOW + data_dict[matched_word] + Style.RESET_ALL + "\n(" + Fore.RED + "nhập 1 để xóa từ này, " + Fore.GREEN + "ENTER để tiếp tục" + Style.RESET_ALL + "): ")
+                
+    #             # Thêm lựa chọn xóa từ
+    #             delete_choice = input().lower()
+                
+    #             if delete_choice == '1':
+    #                 # Xóa từ khỏi từ điển
+    #                 del data_dict[matched_word]
+                    
+    #                 # Cập nhật lại file sau khi xóa từ
+    #                 sorted_data = sorted(data_dict.items())
+                    
+    #                 with open(file_path, 'w', encoding='utf-8') as file:
+    #                     for key, value in sorted_data:
+    #                         file.write(f"{key}: {value}\n")
+
+    #                 print("Từ " + Fore.RED + matched_word + Style.RESET_ALL + " đã được xóa khỏi từ điển.")
+    #                 print("\n==============================\n")
+    #             else:
+    #                 print("==============================\n")
+
+    #         else:
+    #             input_meaning = input("Từ " + Fore.RED + input_word + Style.RESET_ALL + " không có trong từ điển. Bạn có muốn thêm từ này vào từ điển không?:\n(" + Style.RESET_ALL + Fore.GREEN + "ENTER thêm từ," + Fore.RED +" 1 thoát): " + Style.RESET_ALL)
+                
+    #             if input_meaning.lower() == '1':
+    #                 print("Từ " + Fore.RED + input_word + Style.RESET_ALL +" không được thêm vào từ điển.")
+    #                 print("\n==============================\n")
+
+    #             else:  # enter - thêm từ
+    #                 input_meaning = input("Vui lòng nhập nghĩa của từ " + Fore.GREEN + input_word + Style.RESET_ALL + " (để trống = huỷ thêm):")
+                    
+    #                 if not input_meaning.strip():  # Kiểm tra nếu nghĩa để trống
+    #                     print("Từ " + Fore.RED + input_word + Style.RESET_ALL +" không được thêm vào từ điển.")
+    #                     print("\n==============================\n")
+    #                 else:
+    #                     data_dict[input_word] = input_meaning
+
+    #                     # Sắp xếp từ điển theo từ khóa
+    #                     sorted_data = sorted(data_dict.items())
+
+    #                     # Ghi đè toàn bộ từ điển đã sắp xếp vào file
+    #                     with open(file_path, 'w', encoding='utf-8') as file:
+    #                         for key, value in sorted_data:
+    #                             file.write(f"{key}: {value}\n")
+
+    #                     print("Từ " + Fore.GREEN + input_word + Style.RESET_ALL + " đã được thêm vào từ điển và file đã được sắp xếp.")
+    #                     print("\n==============================\n")
+
     if choice == '1':
         while True:
             input_word = input("Nhập từ (Nhấn " + Fore.RED + "ENTER " + Style.RESET_ALL + "để dừng): ").lower()
             if not input_word:
-                print("Trở lại Menu chính.")
+                print("\nTrở lại Menu chính.")
                 break
 
             matched_word = None
@@ -39,18 +101,33 @@ while True:
                     break
 
             if matched_word:
-                print("Nghĩa của từ " + Fore.GREEN + matched_word + Fore.WHITE + " là: " + Fore.YELLOW + data_dict[matched_word] + Style.RESET_ALL + "\n(" + Fore.RED + "nhập 1 để xóa từ này, " + Fore.GREEN + "ENTER để tiếp tục" + Style.RESET_ALL + "): ")
+                print("Nghĩa của từ " + Fore.GREEN + matched_word + Fore.WHITE + " là: " + Fore.YELLOW + data_dict[matched_word] + Style.RESET_ALL)
+                print("(" + Fore.GREEN + "ENTER để tiếp tục, " + Fore.BLUE + "nhập 1 để thêm từ " + Fore.YELLOW + input_word + Style.RESET_ALL + ", " + Fore.RED + "nhập 2 để xóa từ này" + Style.RESET_ALL + "): ")
                 
-                # Thêm lựa chọn xóa từ
-                delete_choice = input().lower()
-                
-                if delete_choice == '1':
+                user_choice = input().lower()
+
+                if user_choice == '1':
+                    input_meaning = input("Nhập nghĩa của từ '" + Fore.GREEN + input_word + Style.RESET_ALL + "': ")
+                    data_dict[input_word] = input_meaning
+
+                    # Sắp xếp và ghi lại từ điển
+                    sorted_data = sorted(data_dict.items())
+
+                    with open(file_path, 'w', encoding='utf-8') as file:
+                        for key, value in sorted_data:
+                            file.write(f"{key}: {value}\n")
+
+                    print("Từ " + Fore.GREEN + input_word + Style.RESET_ALL + " đã được thêm vào từ điển và file đã được sắp xếp.")
+                    print("\n==============================\n")
+
+
+                elif user_choice == '2':
                     # Xóa từ khỏi từ điển
                     del data_dict[matched_word]
-                    
+
                     # Cập nhật lại file sau khi xóa từ
                     sorted_data = sorted(data_dict.items())
-                    
+
                     with open(file_path, 'w', encoding='utf-8') as file:
                         for key, value in sorted_data:
                             file.write(f"{key}: {value}\n")
@@ -59,6 +136,7 @@ while True:
                     print("\n==============================\n")
                 else:
                     print("==============================\n")
+
 
             else:
                 input_meaning = input("Từ " + Fore.RED + input_word + Style.RESET_ALL + " không có trong từ điển. Bạn có muốn thêm từ này vào từ điển không?:\n(" + Style.RESET_ALL + Fore.GREEN + "ENTER thêm từ," + Fore.RED +" 1 thoát): " + Style.RESET_ALL)
@@ -86,9 +164,6 @@ while True:
 
                         print("Từ " + Fore.GREEN + input_word + Style.RESET_ALL + " đã được thêm vào từ điển và file đã được sắp xếp.")
                         print("\n==============================\n")
-
-    
-
     elif choice == '2':
         while True:
             random_word = random.choice(list(data_dict.keys()))
