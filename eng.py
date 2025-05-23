@@ -82,7 +82,7 @@ while True:
     elif choice == '2':
         while True:
             random_word = random.choice(list(data_dict.keys()))
-            print("Từ: " + Fore.GREEN + random_word + Style.RESETALL + " có nghĩa là gì? \n(" + Fore.YELLOW + "Enter không nhớ," + Fore.GREEN + " 1 đã nhớ, " + Fore.RED + " 2 xóa từ, " + Fore.BLUE + "3 THOÁT): " + Style.RESET_ALL, end='')
+            print("Từ: " + Fore.GREEN + random_word + Style.RESET_ALL + " có nghĩa là gì? \n(" + Fore.YELLOW + "Enter không nhớ," + Fore.GREEN + " 1 đã nhớ, " + Fore.RED + " 2 xóa từ, " + Fore.BLUE + "3 THOÁT): " + Style.RESET_ALL, end='')
             know_meaning = input()
             if know_meaning == '3':
                 print("Thoát chức năng Random từ vựng.")
@@ -109,9 +109,9 @@ while True:
                     print("\n==============================\n")
                 continue
             else:
-		print("\n" + Fore.GREEN + f"{random_word}: " + Fore.YELLOW + data_dict[random_word] + Style.RESET_ALL)
-		print("\n==============================\n")
-               	continue
+                print("\n" + Fore.GREEN + f"{random_word}: " + Fore.YELLOW + data_dict[random_word] + Style.RESET_ALL)
+                print("\n==============================\n")
+                continue
     elif choice == '3':
         sorted_data = sorted(data_dict.items())
         with open(file_path, 'w', encoding='utf-8') as file:
