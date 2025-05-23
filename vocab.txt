@@ -1,0 +1,372 @@
+abduct: kidnap
+ablation: (n) cắt tỉa
+abundant: variety, da dang
+accommodation: nhà cho thuê, chỗ ở
+accomplish: (v) = complete(adj)
+accountability: (n) trách nhiệm giải trình, nghĩa vụ
+accuse: (v) buộc tội
+adamantly: kiên quyết
+adequacy: đầy đủ, thẩm quyền
+adhere: bám chặt vào, tham gia, trung thành
+adjust: sửa chữa
+aggregate: assemble
+aggressive: (adj) offensive
+agricultural: nông nghiệp (*industry)
+allergic: dị ứng
+alteration: thay đổi
+alternate: (n/v/adj) luân phiên, thay thế
+amnesia: hay quên
+among: ở giữa + plural noun
+amplitude: (n) biên độ
+apparently: hiển nhiên
+appeal: (n) sự yêu cầu
+appropriate: rieng biet
+arbitrary: ~random, tùy ý
+archaeologist: (n) khảo cổ học
+arithmetic: số học
+article: (n) bài báo, bài viết
+articulate: nói rõ , explicit(a)
+assert: (v) khẳng định, xác nhận
+asset: tài sản
+assorted: (adj) thập cẩm, kết hợp
+atheist: vô thần
+atraction: (n) danh lam thắng cảnh
+auction: đấu giá
+audit: kiểm toán, kiểm tra
+authentication: confirmation
+avian: relate to bird
+banquet: (n|v) ăn tiệc, đãi tiệc
+barn: vựa, chuồng ngựa
+be home to: là nhà của
+be opposed to: phản đối
+benchmark: (n) điểm chuẩn, tiêu chuẩn
+beverage: (n) đồ uống
+beyond (the sea): vượt qua, ở bên kia
+biased: (adj) thiên vị
+bold: táo bạo
+boundary: ranh giới
+breed: nuôi, giống
+brochure: (n) sách nhỏ, hướng dẫn, tờ rơi
+bustling: (adj) nhộn nhịp, rộn ràng ~hustle ~fast-paced
+capability: ability
+carpool: đi chung xe
+cascading: (n) thác, tầng
+cate: test
+category: thể loại
+catering: (n) cung cấp (ăn uống)
+chalet: nhà gỗ ở ngoại ô
+circuit: (n) mạch điện xoay chiều, quanh co, chu vi, xung quanh, 1 vòng
+circumstance: tình huống, hoàn cảnh, situation.
+clarify: (v) làm rõ, làm sạch, dê hiểu
+clauses: điều khoản
+clerk: (n) nhà thông thái, giáo sĩ, học giả, nhân viên văn phòng
+closure: đóng, chặn, tắt, close
+coefficient: hệ số
+commit: cam kết
+companion: (n) (v) đồng hành
+compartment: (n) vách ngăn
+complement: bổ trợ
+comply: tuân thủ
+compouding: sự kết hợp
+comprehension: bao quát
+comprised of: consist of / composed of
+compromise: thỏa hiệp, nguy cho, ảnh hưởng tới
+concurrent: dong thoi
+conduct: (v) tiến hành, quản lí, điều khiển
+conference: hội nghị
+conjunction: kết hợp
+consent: bằng lòng
+consequence: hậu quả
+consequently: as a result
+conserve: maintain, protect
+consistent: (adj) nhất quán, thích hợp
+consolidate: (v) củng cố, hợp nhất
+consultant: tư vấn viên
+convergence: hội tụ != divergence
+coodinator: hậu cần, điều phối viên
+correspond: (v) phản hồi, correspond to
+corridor(n): hành lang
+counterpart: đối tác
+courtesy: (n) lịch sự, nhã nhặn
+criteria: = standard
+crucial: (adj) chủ yếu
+cupboard: cái tủ chè, tủ 2 cửa, tủ đựng chén
+curriculum: giáo dục, giảng dạy
+dashboard: diagram shows information, typically business outline
+deception: gian xảo
+deductive: suy luận
+defective: có tật
+demand: (n) lời yêu cầu, thỉnh cầu, lời xin, câu hỏi
+demanding: đòi hỏi
+democratise: 
+democratize: (v) dân chủ hoá
+depreciation: khấu hao, sụt giá, giảm giá
+derive: chuyển hóa, nhận đc từ, đc phát triển từ,
+deterioration: giảm giá trị, làm xấu
+diagnosis: chan doan
+diligent: chăm chỉ
+discipline: kỉ luật
+disclose: tiết lộ
+discrete: (adj) rời rạc, đơn lẻ = separate
+disgruntled: bất mãn
+disguise: cải trang
+dishware: (n) bộ bát đĩa
+dispose: bố trí, sắp xếp, sắp đặt, chỉnh đốn
+dispositon: bố trí, sắp xếp, sắp đặt, chỉnh đốn
+divulge: (v) tiết lộ
+drawer: (n) ngăn kéo
+during + một sự kiện, mốc thời gian: 
+emphasize: nhấn mạnh
+empirical: (adj) thực nghiệm
+empower: (n) authorize, uỷ quyền
+enact: (v) ban hành
+endeavor: (n) cố gắng, gắng sức
+enhance: improve, cải thiện
+enrich: (v) làm giàu
+enterprise: (s)doanh nghiệp // mạo hiểm (n)
+entity: thực thể (riêng biệt, tồn tại)
+erasure: sự xóa bỏ, tẩy, chùi
+essential: ~necessary
+estate: fortune
+estimate: uoc luong <linear reg>, khao sat
+ethical: (adj) đạo đức
+evaporate: tan biến
+even so: ngay cả khi
+eventually: completely
+exemptions: miễn trừ
+exhibit: trưng bày /triển lãm
+explicitly: rõ ràng
+exploit: khai thác
+extraordinary: tremendous - unnatural
+fascinate: thu hút
+fatigue: mệt mỏi
+fertile: (adj) phì nhiêu (đất đai)
+financing: (n) sự huy động vốn
+fluctuate: giao động
+for amusement: để làm trò, giải trí
+foreseen: dự kiến
+formerly: (adv) in the past, trước kia
+franchise: nhượng quyền kinh doanh (kfc, lotte)
+fraud: gian lận
+fundamental: (adj) cơ bản, cơ sở
+furnish: (v) trang bị đồ đạc
+genuine: thuần chủng, liêm khiết
+gern: vi khuẩn, mầm bệnh
+govern: quản lí
+graceful: điệu đà
+granular: (adj) từng hạt nhỏ
+granularity: (n) chi tiết
+gratitude: (n) tri ân, biết ơn
+graze: chăn thả
+halt: ~prevent
+harbor, harbour: chứa, cảng, đựng
+hence: kể từ nay, vì thế
+hiearchical: (adj) phân cấp
+hinder: cản trở
+hold by: tổ chức thông qua (+ phone, online, zoom, ggmeet)
+hypothetical: giả thuyết, giả định
+idle: not working, do nothing, free, lazy
+illustrate: minh họa
+implement: (v) thực thi, tiến hành, (n) dụng cụ
+implementing: ~accomplish ~~complete
+implication: hàm ý
+impractical: (adj) không thực tế
+improperly: (adv) không đúng cách
+in light of: because of
+in turn (noun phrase): lần lượt là
+inadvertently: vô tình
+incentive: khuyến khích
+incident: sự cố
+incremental: gia tăng (đều)
+indeed: thật vậy, ~moreover(hơn nữa)
+indicate: (v) chỉ ra, bày tỏ
+indicative: (adj) chỉ dẫn
+individually: riêng lẻ
+inevitable: không thể tránh khổi
+infant: baby
+infimum: != supremum = minimum
+inflate: thổi phòng
+inflict: (v) gây ra, gây thiệt, bắt phải chịu inflicted her beliefs on...
+ingestion: (n) sự tiêu thụ
+ingredient: nguyên liệu
+inhabitant: (n) cư dân
+inherently: (adv) vốn dĩ
+initially: at the beginning
+initiate: (v) thiết lập
+initiative: sáng kiến
+inquire: (v) hỏi thăm
+instance: loi yeu cau // for instance social distancing
+institution: (n) tổ chức, sáng lập, đặt ra, bắt đầu
+insurance: bao hiem
+integrate: (v) tích hợp
+intense: dữ dội
+intention: cố ý, có ý định
+interchange: (v) thay thế cho nhau, trao đổi
+interfere: ảnh hưởng
+interior: nội bộ
+interleaving: (v) xen kẽ,
+interpreter: thong dich vien
+intervention: (n) sự can thiệp, xen vào
+intimate: thân thiết, cặn  kẽ, rõ ràng
+intricate: (adj) lộn xộn
+introvert: noi tam
+intrusion: xâm nhập, xen vào
+invoice: hóa đơn, biên lai
+involvement: participate
+irreducible: không thể rút gọn
+iteration: lặp lại
+jeopardize: gây nguy hiểm, liều mạng
+jury: (n) bồi thẩm đoàn
+justification: lý lẽ,
+latency: (n) độ trễ
+lease: (n) cho thuê (hợp đồng)
+leave out: bỏ qua
+lecture: (n) giảng đường, diễn thuyết
+litigation: kiện tụng, tranh chấp
+malicious: độc hại
+manipulating: apply, practice
+manner: (n) lối, phương pháp, cách
+marathon of sth: một sự kiện gì đó
+maternity: thai sản
+merchandise: (n) hàng hóa
+merit: công lao, tài cán
+monotheistic: độc thần
+mop: thing use to wiping house floor
+motto: (n) châm ngôn, phát ngôn
+negotiate: đàm phán, thương lượng
+obliged: bắt buộc
+obtain: đạt được
+obviously: (adj) rõ ràng, hiển nhiên
+occasional: (adj) thỉnh thoảng
+odd(adj): kỳ cục
+offset: (n) bù đắp
+operating: = activation, running, playing
+orchestrate: (v) dàn dựng, dàn nhạc,
+otherwise: trái lại, if not
+outlet: ổ cắm điện
+overwhelms: lấn át
+patent: (n) bằng sáng chế (v) lấy bằng sáng chế (a) hiển nhiên, obvious
+patio: (n) hiên nhà
+pedestrian: (n) khách đi bộ
+perception: nhận thức, tri giác, trực giác
+perk: thù lao
+permanent: ~ frequently
+perpestrator: thủ phạm
+perspective: quan điểm
+phishing: lừa đảo
+plain: đơn giản
+please by: hài lòng bởi...
+portable: cầm tay, nhỏ gọn
+potential: tiềm năng
+praised by: khen, compliment
+prefer: (v) thích hơn, ưu tiên hơn
+preference: (n) sở thích
+preliminary: sơ bộ, dự bị, dự trù
+premise: tiên đề, tiền đề
+principal: quan trọng
+privacy act: đạo luật bảo mật
+procedure: thủ tục
+project a sense of calm: thê hiện sự bình tĩnh
+prolong: keo dai (time) ~ lengthen (shape)
+prompt: nhắc, kỳ hạn, mau - promptly
+proportion: ratio
+prostitution: mại dâm, erotic
+prototype: (n) bản mẫu
+publication: (n) ấn phẩm, xuất bản
+puddle: vũng nước
+purchase: (n) (v) mua, sắm
+purifier: lọc
+quantify: định lượng
+quantity: số lượng
+quantized: (v) rời rạc hóa, lượng tử hóa
+rack: shelf
+ransomware: tống tiền
+rational: = reasonable = insufficient
+receptionist: (n) lễ tân
+refrain from doing sth: dừng việc này lại
+regardless: bất kể, however, nevertheless, but, yet,...
+reimbursement: (n) đền bù, bồi thường
+relentless: không êm, không ngừng nghỉ
+reluctant: do dự, miễn cưỡng, không sẵn lòng
+renovation: (n) cải tạo lại
+repository: (n) kho lưu trữ
+reputation: danh tiếng
+residential: khu dân dư
+residual: (adj) phần dư
+restrict: nghiêm ngặt
+retail: (n) bán lẻ
+retention: (n) giữ lại, duy trì
+revenue: doanh thu, tiền lời
+revise: (v) đọc lại, xem lại, ôn lại
+rigor: nghiêm ngặt
+running errand: đi làm lặt vặt
+saving: (n) sự tiết kiệm
+scarce: limited
+seismic: (adj) địa chấn
+semantic: ngữ nghĩa
+settle: ủy nhiệm, bổ nhiệm, sắp đặt, định đoạt
+severe: intense
+significant: đáng kể, có ý nghĩa, important, emphasize
+slum: khu o chuot
+so + ... + that: quá ... đến nỗi mà
+so that + clause: 
+solely: (adv) 1 mình, cô độc, trơ trọi
+sophisticated: tinh vi, giả tạo
+sparring: đấu tập
+spectaculated: chiêm ngưỡng/cảnh tượng/ngoạn mục
+speculate: suy đoán
+spoliation: sự cướp bóc, cướp giật
+squash: làm dẹp, làm giãn
+squire: người hầu
+stagger: lạng choạng
+staple: ghim giấy
+state: (v) ghi chú, thông báo, anounce, inform
+steady: cố định
+stereotype: (n/v) khuôn mẫu, in đúc, bản in
+stimutaneous: dong thoi
+stipulated: quy định
+stringent: strict
+strives: nỗ lực, phấn đấu
+substance: ý là, bản chất, nội dung, vật chất, vật liệu, chất
+substituted: thay thế
+subtle: khôn khéo, tinh tế
+sufficiency: (n) đủ đầy
+suficient: hợp lý
+superfluous: dư, thừa
+superior: outstanding
+supplemental: additional, bổ sung
+surveillance: kiem soat
+susceptible: nhạy cảm
+sustanable: (adj) bền vững
+suture: (n) vết khâu (v) khâu vá
+symptomatic: marked
+tackle: (n) sự ngăn cản, dây câu (v)  tắc bóng
+tailor: (n/v) may đo, thiết kế
+tenant: nguoi thue nha
+tender: soft
+terminology: thuật ngữ
+therapeutic: trị liệu
+thus: do đó
+tissue: mô (tế bào), giấy ăn
+trafficking: buôn lậu
+transparency: (n) minh bạch
+tremendous: (adj) to lớn, phi thường
+triumph: khải hoàn
+unbounded: = unlimited
+unify: (v) hợp nhất
+uphold: (v) khuyến khích, duy trì
+utensil: dụng cụ, đồ dùng
+utilize: (v) sử dụng
+vacant: trống, empty
+valor: lòng dũng cảm
+vast: bao la
+vendor: (n) người bán, seller
+vessel: (blood vessel)
+vibrant: (adj) rung rinh
+vicinity: lân cận
+vigor: khí phách, mạnh mẽ
+vine: nho
+vines: dây leo
+wholesale: (n) mua sỉ
+witness: bang chung, chung kien, nhan chung
+yield: sản lượng (của sản phẩm), năng suất, lợi tức

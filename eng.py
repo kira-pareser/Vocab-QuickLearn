@@ -3,7 +3,7 @@ from colorama import Fore, Style
 import os
 clear = lambda: os.system('cls')
 # clear()
-file_path = 'C:/Users/kira2/Desktop/Vocab-QuickLearn/vocab.txt'
+file_path ='./vocab.txt'
 data_dict = {}
 with open(file_path, 'a', encoding='utf-8') as file:
                     file.write("\n")
@@ -82,17 +82,15 @@ while True:
     elif choice == '2':
         while True:
             random_word = random.choice(list(data_dict.keys()))
-            print("Từ: " + Fore.GREEN + random_word + Style.RESET_ALL + " có nghĩa là gì? \n(" + Fore.GREEN + "Enter đã nhớ," + Fore.YELLOW + " 1 không nhớ, " + Fore.RED + " 2 xóa từ, " + Fore.BLUE + "3 THOÁT): " + Style.RESET_ALL, end='')
+            print("Từ: " + Fore.GREEN + random_word + Style.RESETALL + " có nghĩa là gì? \n(" + Fore.YELLOW + "Enter không nhớ," + Fore.GREEN + " 1 đã nhớ, " + Fore.RED + " 2 xóa từ, " + Fore.BLUE + "3 THOÁT): " + Style.RESET_ALL, end='')
             know_meaning = input()
             if know_meaning == '3':
                 print("Thoát chức năng Random từ vựng.")
                 print("\n==============================\n")
                 break
             elif know_meaning == '1':
-                print("\n" + Fore.GREEN + f"{random_word}: " + Fore.YELLOW + data_dict[random_word] + Style.RESET_ALL)
-                print("\n==============================\n")
                 continue
-            if know_meaning == '2':
+            elif know_meaning == '2':
                 # Hỏi xác nhận trước khi xóa
                 confirm_delete = input("Bạn có chắc muốn xóa từ " + Fore.GREEN + random_word + Style.RESET_ALL +" không? (y/n): ").lower()
                 if confirm_delete == 'y':
@@ -111,7 +109,9 @@ while True:
                     print("\n==============================\n")
                 continue
             else:
-                continue
+		print("\n" + Fore.GREEN + f"{random_word}: " + Fore.YELLOW + data_dict[random_word] + Style.RESET_ALL)
+		print("\n==============================\n")
+               	continue
     elif choice == '3':
         sorted_data = sorted(data_dict.items())
         with open(file_path, 'w', encoding='utf-8') as file:
